@@ -11,9 +11,9 @@ Plus d'infos à suivre..
 ## ⚙ Stack(s)
 
 **Développement**
-- Wordpress (ACF + CPT UI)
 - Nextjs
 - Tailwind
+- Wordpress (headless)
 
 **Librairies**
 - Apollo
