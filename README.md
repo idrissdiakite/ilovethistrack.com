@@ -6,6 +6,8 @@
 
 Refonte de A à Z de mon ancien site de musique ilovethistrack.com: branding, design, développement etc.
 
+Plus d'infos à suivre..
+
 ## ⚙ Stack(s)
 
 **Développement**
