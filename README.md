@@ -23,6 +23,10 @@ Plus d'infos à suivre..
 - Threejs
 - Framer motion
 
+**Déploiement**
+- Node serveur
+- CI/CD Github actions (via SSH)
+
 ## 🚀 Live
 
 (url provisoire)
