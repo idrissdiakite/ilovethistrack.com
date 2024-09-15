@@ -27,6 +27,6 @@ Plus d'infos à suivre..
 - Node serveur
 - CI/CD Github actions (via SSH)
 
-## 🚀 Live
+## 🚀 Live (beta)
 
-[https://www.beta.ilovethistrack.com](https://www.beta.ilovethistrack.com) (beta) 
+[https://www.beta.ilovethistrack.com](https://www.beta.ilovethistrack.com)
