@@ -29,7 +29,4 @@ Plus d'infos à suivre..
 
 ## 🚀 Live
 
-(url provisoire)
-
-
-[https://www.beta.ilovethistrack.com/](https://www.beta.ilovethistrack.com/) 
+[https://www.beta.ilovethistrack.com](https://www.beta.ilovethistrack.com) (beta) 
